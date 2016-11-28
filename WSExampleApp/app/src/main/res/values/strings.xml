@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WSExampleApp</string>
+    <string name="lblString">String</string>
+    <string name="lblInt">Int</string>
+    <string name="lblDate">Date</string>
+    <string name="lblDouble">Double</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="btnRequest">Receber</string>
+    <string name="lblImagem">Imagem</string>
+</resources>
